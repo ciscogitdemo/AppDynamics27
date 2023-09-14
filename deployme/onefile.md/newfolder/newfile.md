@@ -1,1 +1,0 @@
-<p>Virat, Rohit, Dhoni</p>
